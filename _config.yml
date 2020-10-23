@@ -26,6 +26,10 @@ docHomePage: /Dynamsoft-License-Tracking-Docs
 # Notice the root of the path is the first-level domain, so the relative path shall be started 
 # with the first-level path rather than the root path of the repository.
 
+about: /Dynamsoft-License-Tracking-Docs/about/
+dshosting: /Dynamsoft-License-Tracking-Docs/dshosting/
+selfhosting: /Dynamsoft-License-Tracking-Docs/selfhosting/
+
 # Example variable:
 
 # sampleFolder: <firstLevelUrl>/sample-folder/

@@ -6,8 +6,16 @@ breadcrumbText: HomePage
 description: Documentation Homepage
 ---
 
-# Documentation HomePage
+# Dynamsoft License Tracking
 
-* [About](lts/)
-    - [Sample Page](sample-folder/sample-page.md)
-    - [Sample Subfolder](sample-folder/sample-subfolder/)
+* [About](dlt/)
+    - [Mechanism](dlt/how-license-works.md)
+    - [License Types](dlt/license-types.md)
+    - [Purchase A License](dlt/license-purchase.md)
+* [Dynamsoft-hosting](dshosted/)
+    - [A](dshosted/)
+    - [](dshosted/)
+
+* [Self-hosting](selfhosted/)
+    - [](selfhosted/)
+    - [](selfhosted/)
