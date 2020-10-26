@@ -89,4 +89,28 @@ Once the import succeeds, you are redirected to "License Items"
 
 ### License Items
 
-Here the activated items are listed
+Here the activated items are listed, you can check details like quality, expiration date, etc.
+
+### Configurations
+
+Here you configure custom handshake codes. [What is a handshake code?]({{site.about}}terms.html#handshake-code)
+
+#### Set consumption order
+
+If you have multiple license items for one handshake code, you can set the consumption order which determines which license is consumed first. In most cases, you can just keep the default order which is already optimized.
+
+#### Show Statistics
+
+Click "Statistics" button to view the usage report for each handshake code.
+
+Read more on ["Statistics Page"]({{site.about}}statistics-page.html)
+
+#### Edit or add a handshake code
+
+When you add or edit a handshake code, you are navigated to the "Handshake Details" page. Read more [here]({{site.selfhosting}}configure-handshake.html)
+
+### Email Config
+
+When the quota on the license is about to be used up, you may want to be notified. The License Tracking Server does it via email notifications. In Email config, you can set the email sender and who to notify.
+
+Check out more on [Email Notification]({{site.selfhosting}}email-notification.html)
